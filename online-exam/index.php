@@ -136,7 +136,9 @@ background-color: rgba(0, 0, 0, 0.26);">
             <li><a href="index.php"> Home</a> </li>
             <li> <a href="course.php">Courses</a></li>
             <li><a href="Registeration.php">Registeration</a></li>
-            <li><a href="Contact.php">Contact Us</a></li>
+            <li><a href="http://localhost/online-exam/contact.php">Contact Us
+                
+            </a></li>
         
             
         </ul>
